@@ -1,0 +1,8 @@
+
+if (0) {
+    printf("No");
+} else {
+    printf("Si");
+}
+
+

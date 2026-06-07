@@ -1,0 +1,14 @@
+{
+    "version": "2.0.0",
+    "configurations": [
+    {
+    "name": "Debug ANTLR4 grammar",
+    "type": "antlr-debug",
+    "request": "launch",
+    "input": "EjemploOk1.txt", //, EjemploOk2.txt, EjemploFall1.txt, EjemploFall2.txt",
+    "grammar": "SubC.g4",
+    "printParseTree": true,
+    "visualParseTree": true
+    }
+    ]
+}

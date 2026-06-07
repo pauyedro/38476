@@ -1,0 +1,29 @@
+{
+  "name": "proyectonodejs",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u00003\u00008\u00004\u00007\u00006\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tree": "grun SubC programa -tree",
+    "gui": "grun SubC programa -gui"
+  },
+  "repository": {
+    "url": "git+https://github.com/pauyedro/38476.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "antlr4-tool": "^1.1.1"
+  },
+  "bugs": {
+    "url": "https://github.com/pauyedro/38476/issues"
+  },
+  "homepage": "https://github.com/pauyedro/38476#readme",
+  "dependencies": {
+    "antlr4": "^4.13.2"
+  }
+}
